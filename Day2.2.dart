@@ -11,3 +11,11 @@ void main() {
   print(isActive.toString());
   print('Name: ' + '${name.toUpperCase()}');
 }
+
+
+/*OUTPUT
+Dart Programmer
+21
+19.99
+true
+Name: DART PROGRAMMER*/
