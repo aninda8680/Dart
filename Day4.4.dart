@@ -12,3 +12,11 @@ void main() {
   print('Post-decrement result: $postDecrementScore');
   print('Final score: $newScore');
 }
+
+
+/*OUTPUT
+Initial score: 10
+After pre-increment: 11
+Current score: 11
+Post-decrement result: 11
+Final score: 10*/
