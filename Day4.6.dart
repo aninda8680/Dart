@@ -12,13 +12,13 @@ void main() {
   playerScore -= 15;
   playerScore *= 2;
 
-  print('Initial score: $playerScore');
+  print('Initial score: 100');
   print('Level bonus: $levelBonus');
-  print('Available power-ups: $powerUps ');
+  print('Available power-ups: $powerUps');
   print('Remaining points: $remainingPoints');
   print('New Level: $newLevel');
   print('Score after bonus and penalty: ${playerScore / 1.5}');
-  print('Final score with multuplier: $playerScore');
+  print('Final score with multiplier: $playerScore');
 }
 
 /* OUTPUT
